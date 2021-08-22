@@ -31,8 +31,8 @@
 ![alt test_6](https://github.com/harmardir/toy_robot/blob/main/test_images/test_6.JPG)
 13. Case(7): Prevent the robot to fall out of the table from WEST
 ![alt test_7](https://github.com/harmardir/toy_robot/blob/main/test_images/test_7.JPG)
-15. Case(8): Invalid movement option
+15. Case(8): Invalid movement option  
 ![alt test_8](https://github.com/harmardir/toy_robot/blob/main/test_images/test_8.JPG)
-17. Case(9): Valid input
+17. Case(9): Valid input  
 ![alt test_9](https://github.com/harmardir/toy_robot/blob/main/test_images/test_9.JPG)
 
