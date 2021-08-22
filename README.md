@@ -17,13 +17,14 @@
 
 ## TEST CASES
 
-1. Case(1): Invalid X coordinate
-2. Case(2): Invalid Y coordinate
-3. Case(3): Invalid F (direction)
-4. Case(4): Prevent the robot to fall out of the table from NORTH
-5. Case(5): Prevent the robot to fall out of the table from SOUTH
-6. Case(6): Prevent the robot to fall out of the table from EAST
-7. Case(7): Prevent the robot to fall out of the table from WEST
-8. Case(8): Invalid movement option
-9. Case(9): Valid input
+1. Case(1): Invalid X coordinate  
+![alt test_1](https://github.com/harmardir/toy_robot/blob/main/test_images/test_1.JPG)
+3. Case(2): Invalid Y coordinate
+4. Case(3): Invalid F (direction)
+5. Case(4): Prevent the robot to fall out of the table from NORTH
+6. Case(5): Prevent the robot to fall out of the table from SOUTH
+7. Case(6): Prevent the robot to fall out of the table from EAST
+8. Case(7): Prevent the robot to fall out of the table from WEST
+9. Case(8): Invalid movement option
+10. Case(9): Valid input
 
