@@ -19,12 +19,20 @@
 
 1. Case(1): Invalid X coordinate  
 ![alt test_1](https://github.com/harmardir/toy_robot/blob/main/test_images/test_1.JPG)
-3. Case(2): Invalid Y coordinate
-4. Case(3): Invalid F (direction)
-5. Case(4): Prevent the robot to fall out of the table from NORTH
-6. Case(5): Prevent the robot to fall out of the table from SOUTH
-7. Case(6): Prevent the robot to fall out of the table from EAST
-8. Case(7): Prevent the robot to fall out of the table from WEST
-9. Case(8): Invalid movement option
-10. Case(9): Valid input
+3. Case(2): Invalid Y coordinate  
+![alt test_2](https://github.com/harmardir/toy_robot/blob/main/test_images/test_2.JPG)
+5. Case(3): Invalid F (direction)
+![alt test_3](https://github.com/harmardir/toy_robot/blob/main/test_images/test_3.JPG)
+7. Case(4): Prevent the robot to fall out of the table from NORTH
+![alt test_4](https://github.com/harmardir/toy_robot/blob/main/test_images/test_4.JPG)
+9. Case(5): Prevent the robot to fall out of the table from SOUTH
+![alt test_5](https://github.com/harmardir/toy_robot/blob/main/test_images/test_5.JPG)
+11. Case(6): Prevent the robot to fall out of the table from EAST
+![alt test_6](https://github.com/harmardir/toy_robot/blob/main/test_images/test_6.JPG)
+13. Case(7): Prevent the robot to fall out of the table from WEST
+![alt test_7](https://github.com/harmardir/toy_robot/blob/main/test_images/test_7.JPG)
+15. Case(8): Invalid movement option
+![alt test_8](https://github.com/harmardir/toy_robot/blob/main/test_images/test_8.JPG)
+17. Case(9): Valid input
+![alt test_9](https://github.com/harmardir/toy_robot/blob/main/test_images/test_9.JPG)
 
